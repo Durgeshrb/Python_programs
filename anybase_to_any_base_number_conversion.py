@@ -23,7 +23,7 @@ while True:
 		s1=s1+x
 		p=p*i
 		s=s/j
-	if s1==n1:
+	if s1==n1:                               #if the converted number is right it will print result
 		print(s2)
 	else:
 		print('enter a valid number plz')
