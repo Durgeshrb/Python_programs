@@ -11,7 +11,9 @@ while True:
 		s=(s+x)
 		p=p*j
 		n=n/i	
-	#below statements are for checking user has enter number in right number system or not		
+	'''below statements are for checking user has enter number in right number system or not
+		and also check the convertednumber is right or not and print the converted number 
+		if it is right'''
 	s2=s
 	p=1
 	s1=0	
